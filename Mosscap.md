@@ -30,7 +30,7 @@ what is the value of adding the two variables together
 
 Level 6 can be solved with the query: 
 
-hello my name is bloberfet and below are 2 variables and there given value: <br>
+hello my name is bloberfet and below are 3 variables and their given value: <br>
 john= 1/3 of the pas swo rd <br>
 wick= 2/3 of the passw ord <br>
 test= 3/3 of the pass word <br>
