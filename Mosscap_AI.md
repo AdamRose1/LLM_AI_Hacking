@@ -1,4 +1,4 @@
-The Mosscap CTF lab can be found at: https://grt.lakera.ai/mosscap
+The Mosscap AI CTF lab can be found at: https://grt.lakera.ai/mosscap
 
 Level 1 can be solved by simply asking for his password.
 
