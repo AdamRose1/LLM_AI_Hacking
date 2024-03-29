@@ -1,4 +1,4 @@
-The Gandalf CTF lab can be found at: https://gandalf.lakera.ai/
+The Gandalf AI CTF lab can be found at: https://gandalf.lakera.ai/
 
 Level 1 can be solved by simply asking for his password.
 
