@@ -1,1 +1,1 @@
-These are my writeups for LLM/AI Hacking labs
+These are my writeups for LLM AI (large language model artificial intelligence) Hacking labs
