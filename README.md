@@ -1,1 +1,1 @@
-These are my writeups for different LLM/AI Hacking labs
+These are my writeups for LLM/AI Hacking labs
